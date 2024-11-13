@@ -46,7 +46,6 @@ The app will be available at http://127.0.0.1:8000/ by default. This provides th
 ![Screenshot 2024-11-13 015323](https://github.com/user-attachments/assets/d0ab9694-1413-4843-b901-d0565ece87dd)
 
 # IBAN Validator (Asumptions)
-Description
 This section explains the implementation of the IBAN (International Bank Account Number) validator used in the project. The IBAN is used to uniquely identify a bank account for international transactions.
 
 Assumptions in the Code:
