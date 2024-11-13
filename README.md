@@ -53,3 +53,13 @@ The frontend is a basic HTML page with Bootstrap that allows you to view the det
 1) Investors
 2) Bills
 3) Capital Calls
+
+# IBAN Validator (Asumptions)
+Description
+This section explains the implementation of the IBAN (International Bank Account Number) validator used in the project. The IBAN is used to uniquely identify a bank account for international transactions.
+
+Assumptions in the Code:
+IBAN Structure:
+
+The IBAN starts with a two-letter country code ([A-Z]{2}), followed by two check digits ([0-9]{2}).
+The remainder of the IBAN ([A-Z0-9]{4,30}) consists of a combination of uppercase letters and numbers, which can vary in length from 4 to 30 characters, based on the country.
