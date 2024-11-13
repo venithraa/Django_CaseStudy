@@ -45,15 +45,6 @@ The app will be available at http://127.0.0.1:8000/ by default. This provides th
 ![Screenshot 2024-11-13 015312](https://github.com/user-attachments/assets/c1b9188c-96b5-45c9-97b1-a57954d03438)
 ![Screenshot 2024-11-13 015323](https://github.com/user-attachments/assets/d0ab9694-1413-4843-b901-d0565ece87dd)
 
-
-
-# Frontend
-The frontend is a basic HTML page with Bootstrap that allows you to view the details of:
-
-1) Investors
-2) Bills
-3) Capital Calls
-
 # IBAN Validator (Asumptions)
 Description
 This section explains the implementation of the IBAN (International Bank Account Number) validator used in the project. The IBAN is used to uniquely identify a bank account for international transactions.
