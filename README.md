@@ -19,23 +19,23 @@ upfront fees = (fee percentage) x (amount invested) x 5 years
 3) Yearly fees
 An investor can also pay his fees per year for an investment.
 Please take into account the following information while designing your system-
-Yearly fees before 2019/04
-- First year:
+- Yearly fees before 2019/04
+  - First year:
 Fees = (date of the investment bought / 365) x (fee percentage) x (amount
 invested)
-- Other years:
+  - Other years:
 Fees = (fee percentage) x amount invested
-Yearly fees after 2019/04
- - First year:
+- Yearly fees after 2019/04
+  - First year:
 Fees = date of the investment bought / amount days in that year x fee
 percentage x amount invested
- - Second year:
+  - Second year:
 Fees = (fee percentage) x (amount invested)
- - Third year:
+  - Third year:
 Fees = (fee percentage - 0.20 %) x (amount invested)
- - Fourth year:
+  - Fourth year:
 Fees = (fee percentage - 0.50 %) x (amount invested)
- - Following years:
+  - Following years:
 Fees = (fee percentage - 1 %) x (amount invested)
 
 # Features
