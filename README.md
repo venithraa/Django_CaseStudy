@@ -39,10 +39,10 @@ Fees = (fee percentage - 0.50 %) x (amount invested)
 Fees = (fee percentage - 1 %) x (amount invested)
 
 # Features
-1) Investor and bill management with various bill types: membership, upfront fees, and yearly fees.
-2) Automatic bill calculations based on investment amounts, fee percentages, and investment duration.
-3) Capital calls generation with options to group bills by investor and track status (validated, sent, paid, overdue).
-4) Frontend interface built with HTML and Bootstrap for displaying investors, bills, and capital calls.
+  - Investor and bill management with various bill types: membership, upfront fees, and yearly fees.
+  - Automatic bill calculations based on investment amounts, fee percentages, and investment duration.
+  - Capital calls generation with options to group bills by investor and track status (validated, sent, paid, overdue)
+  -  Frontend interface built with HTML and Bootstrap for displaying investors, bills, and capital calls.
 
 # Step-by-Step Installation
 1) Clone the repository -- git clone git@github.com:venithraa/archimed_case_study.git
