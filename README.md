@@ -10,13 +10,13 @@ A Capital call is an invoice we send to the user (in this example an investor). 
 Bill :
 Since, we have talked already about the various types of bills. Therefore, underneath you find some possible bills. Although, the manner we calculate bills
 is always changing over time depending upon various business reasons but, for the purposes of our problem, the following are the types of possible bills
-• Membership
+1) Membership
 Active members need to pay a yearly subscription for using the platform. This is 3000 euro per year. In the event of an investor investing more than EUR
 50000, he does not need to pay any of the yearly subscription.
-• Upfront fees
+2) Upfront fees
 The investor has the choice to pay all his fees upfront for an investment. So we can only bill him once for it
 upfront fees = (fee percentage) x (amount invested) x 5 years
-• Yearly fees
+3) Yearly fees
 An investor can also pay his fees per year for an investment.
 Please take into account the following information while designing your system-
 Yearly fees before 2019/04
